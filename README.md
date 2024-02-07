@@ -5,6 +5,11 @@
 
 ##### Entusiasta de tecnologia e educação, empenhado em criar impacto por meio da programação!
 
+<!-- Quebra de linha e espaçamento -->
+<br>
+<div style="margin-bottom: 20px;"></div>
+
+
 <!-- Linguagens e Ferramentas -->
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <!-- Imagem do Java -->
@@ -42,9 +47,7 @@
          style="width: 40px; height: 40px; margin-right: 10px;" />
 </div>
 
-<!-- Quebra de linha e espaçamento -->
-<br>
-<div style="margin-bottom: 20px;"></div>
+##
 
 <!-- Links de Trabalho -->
 <div>
@@ -55,4 +58,3 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
-Agora, há uma quebra de li
