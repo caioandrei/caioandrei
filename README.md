@@ -1,9 +1,9 @@
 <!-- Contador de visualizações -->
 <img align="right" src="https://komarev.com/ghpvc/?username=caioandrei&color=e4ee71" style="margin-bottom: 20px;">
 
-# Olá! Me chamo Caio! 👋
-
-##### Entusiasta de tecnologia e educação, empenhado em criar impacto por meio da programação!
+# Olá, eu sou o Caio! 👋
+#### Bem-vindo ao meu GitHub! 
+#### Estudante de programação em busca de desafios e aprendizados constantes no vasto universo do desenvolvimento de software!
 
 <!-- Quebra de linha e espaçamento -->
 <br>
@@ -50,11 +50,7 @@
 ##
 
 <!-- Links de Trabalho -->
-<div>
-    <a href="https://www.linkedin.com/in/caioandrei/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="mailto:devcaio2002@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
+<div> 
+  <a href = "mailto:devcaio2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caioandrei/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
