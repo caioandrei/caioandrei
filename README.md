@@ -3,7 +3,6 @@
 
 # Olá, eu sou o Caio! 👋
 #### Bem-vindo ao meu GitHub! 
-#### Estudante de programação em busca de desafios e aprendizados constantes no vasto universo do desenvolvimento de software!
 
 <!-- Quebra de linha e espaçamento -->
 <br>
